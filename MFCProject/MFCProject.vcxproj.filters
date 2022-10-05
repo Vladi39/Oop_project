@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Source Files\MFC">
+      <UniqueIdentifier>{ef10ac8a-2297-4bb3-beef-260d1b8d67e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MFC">
+      <UniqueIdentifier>{23a8fa51-b39c-4066-8216-3928b95329da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\FIGUERS">
+      <UniqueIdentifier>{60e3bd0c-da85-4201-a600-e2816c06173a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Source Files\FIGUERS">
+      <UniqueIdentifier>{e884ce64-33c0-420b-8ee9-4a2bf69984dd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Header Files\MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCProject.h">
+      <Filter>Header Files\MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCProjectDlg.h">
+      <Filter>Header Files\MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files\MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files\MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files\MFC</Filter>
+    </ClInclude>
+    <ClInclude Include="Drawing.h">
+      <Filter>Header Files\FIGUERS</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>Header Files\FIGUERS</Filter>
+    </ClInclude>
+    <ClInclude Include="Figure2D.h">
+      <Filter>Header Files\FIGUERS</Filter>
+    </ClInclude>
+    <ClInclude Include="Functions.h">
+      <Filter>Header Files\FIGUERS</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>Header Files\FIGUERS</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>Header Files\FIGUERS</Filter>
+    </ClInclude>
+    <ClInclude Include="Segment.h">
+      <Filter>Header Files\FIGUERS</Filter>
+    </ClInclude>
+    <ClInclude Include="Square.h">
+      <Filter>Header Files\FIGUERS</Filter>
+    </ClInclude>
+    <ClInclude Include="Gaming.h">
+      <Filter>Header Files\FIGUERS</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MFCProjectDlg.cpp">
+      <Filter>Resource Files\Source Files\MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCProject.cpp">
+      <Filter>Resource Files\Source Files\MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Resource Files\Source Files\MFC</Filter>
+    </ClCompile>
+    <ClCompile Include="Drawing.cpp">
+      <Filter>Resource Files\Source Files\FIGUERS</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>Resource Files\Source Files\FIGUERS</Filter>
+    </ClCompile>
+    <ClCompile Include="Figure2D.cpp">
+      <Filter>Resource Files\Source Files\FIGUERS</Filter>
+    </ClCompile>
+    <ClCompile Include="Functions.cpp">
+      <Filter>Resource Files\Source Files\FIGUERS</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>Resource Files\Source Files\FIGUERS</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle.cpp">
+      <Filter>Resource Files\Source Files\FIGUERS</Filter>
+    </ClCompile>
+    <ClCompile Include="Segment.cpp">
+      <Filter>Resource Files\Source Files\FIGUERS</Filter>
+    </ClCompile>
+    <ClCompile Include="Square.cpp">
+      <Filter>Resource Files\Source Files\FIGUERS</Filter>
+    </ClCompile>
+    <ClCompile Include="Gaming.cpp">
+      <Filter>Resource Files\Source Files\FIGUERS</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MFCProject.rc2">
+      <Filter>Resource Files\Source Files\MFC</Filter>
+    </None>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFCProject.rc">
+      <Filter>Resource Files\Source Files\MFC</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MFCProject.ico">
+      <Filter>Resource Files\Source Files\MFC</Filter>
+    </Image>
+    <Image Include="Resources\fail lol xd.png">
+      <Filter>Resource Files\Source Files\FIGUERS</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\fail_lol_xd_oBk_icon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

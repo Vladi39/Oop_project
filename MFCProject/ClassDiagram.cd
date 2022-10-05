@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CMFCProjectApp" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAI=</HashCode>
+      <FileName>MFCProject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCProjectDlg" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kBCABgEIAgCAhAWhAJBAAGlgQgAABAUIAAAABABQAAA=</HashCode>
+      <FileName>MFCProjectDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Circle" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQMAAAAAQgAAAAAQABgAAAAACgAAAAAAAggAQEAAAA=</HashCode>
+      <FileName>Circle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawing" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAgAIACAAA=</HashCode>
+      <FileName>Drawing.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figure2D" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ESQYgEAAAQAEAAwAQEJAAAACACAMQQBAAABkAWEAAiA=</HashCode>
+      <FileName>Figure2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gaming" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAgAAAAAAAEAAAAAIAAAAgEAAUAAAAAAAAAAABA=</HashCode>
+      <FileName>Gaming.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAgAAAAAAAAAAAAAAAAAAgAAAAYAA=</HashCode>
+      <FileName>C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\gdiplustypes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyRectangle" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAFAAAAQAAAAAAAAJAAAAAACAAAAAAAAAAAQEAAAA=</HashCode>
+      <FileName>Rectangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Segment" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAQAACAgAQAMCAAAAAAAAAAgAAAAAAAEAAAA=</HashCode>
+      <FileName>Segment.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Square" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAAUAAAACAAAAAAAAAEAAAAAAAAAAgAQEAAAA=</HashCode>
+      <FileName>Square.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="GameMode" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAgAAAAAgIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFCProjectDlg.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Phase" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAgAAAAACAAAAEAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>MFCProjectDlg.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Strikes" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAQAAA=</HashCode>
+      <FileName>MFCProjectDlg.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
